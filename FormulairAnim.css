@@ -20,8 +20,8 @@
     animation: ani1 5s alternate infinite  ;
     animation-duration: 7s ;
     position: absolute;
-    width: 40px;
-    height: 40px;
+    width: 5.3%;
+    height: 5.3%;
     border-radius: 10px;
     
 }
@@ -34,8 +34,8 @@
     animation: ani2 5s alternate infinite  ;
     animation-duration: 8s ;
     position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c3{
@@ -45,8 +45,8 @@
     border: none;
     animation: ani3 5s alternate infinite  ;
     animation-duration: 7s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c4{
@@ -55,8 +55,8 @@
     border: 7px solid rgba(15, 14, 14,0.5);
     animation: ani4 5s alternate infinite  ;
     animation-duration: 7s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
    
 }
@@ -67,8 +67,8 @@
     border: none;
     animation: ani5 5s alternate infinite  ;
     animation-duration: 5s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c6{
@@ -78,8 +78,8 @@
     border: none;
     animation: ani6 5s alternate infinite  ;
     animation-duration: 10s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c7{
@@ -88,8 +88,8 @@
     border: 5px solid rgba(15, 14, 14,0.5);
     animation: ani7 5s alternate infinite  ;
     animation-duration: 14s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c8{
@@ -98,8 +98,8 @@
     border: 5px solid rgba(15, 14, 14,0.5);
     animation: ani8 3s alternate infinite  ;
     animation-duration: 3s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c9{
@@ -108,8 +108,8 @@
     border: 5px solid rgba(15, 14, 14,0.5);
     animation: ani9 5s alternate infinite  ;
     animation-duration: 13s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 .c10{
@@ -118,8 +118,8 @@
     border: 5px solid rgba(15, 14, 14,0.5);
     animation: ani10 5s alternate infinite  ;
     animation-duration: 7s ;position: absolute;
-    width: 40px;
-    height: 40px;border-radius: 10px;
+    width: 5.3%;
+    height: 5.3%;border-radius: 10px;
 
 }
 @keyframes ani1 
@@ -127,8 +127,8 @@
     100%{
         bottom: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
     }
 }
 @keyframes ani2
@@ -136,8 +136,8 @@
     100%{
         bottom: 100%;
         transform: rotate(270deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
         opacity: 0;
     }
 }
@@ -146,8 +146,8 @@
     100%{
         top: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
         opacity: 0;
     }
 }
@@ -156,8 +156,8 @@
     100%{
         bottom: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
         opacity: 0;
     }
 }
@@ -166,8 +166,8 @@
     100%{
         bottom: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
     }
 }
 @keyframes ani6 
@@ -175,8 +175,8 @@
     100%{
         top: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
     }
 }
 @keyframes ani7 
@@ -184,8 +184,8 @@
     100%{
         bottom: 100%;
         transform: rotate(90deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
     }
 }
 @keyframes ani8 
@@ -193,8 +193,8 @@
     100%{
         top: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
         opacity: 0;
     }
 }
@@ -203,8 +203,8 @@
     100%{
         bottom: 100%;
         transform: rotate(360deg);
-        width: 60px;
-        height: 60px;
+        width: 8%;
+        height: 8%;
     }
 }
 @keyframes ani10
