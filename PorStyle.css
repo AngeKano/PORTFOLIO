@@ -213,7 +213,7 @@ ul div{
 /******************* REALISATION *****************************/
 .Realisation{
     background: rgb(247, 247, 250);
-    padding-bottom: 46%;
+    padding-bottom: 6%;
 }
 .reas{
     margin-top:10%;
@@ -242,8 +242,8 @@ ul div{
     height: auto;
 }
 .im1 img , .im2 img{
-    width: clamp(200px,5vw,450px);
-    height: clamp(100px,5vw,250px);
+    width: clamp(50px,100vw,450px);
+    height: clamp(25px,100vw,250px);
     margin: 0 4% ;
     object-fit: cover;
     
